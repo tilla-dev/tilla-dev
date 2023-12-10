@@ -1,9 +1,9 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://najmiddinovakobir.netlify.app/"><img src="https://www.canva.com/design/DAF2k2cPiZs/vjR4POWLOQT0-1ETiNA8gw/view?utm_content=DAF2k2cPiZs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" alt="my site"></a>
+<a href="https://najmiddinovakobir.netlify.app/"><img src="Blue Pink and Black Neon 3D Twitch Panel.png" alt="my site"></a>
 </p>
 <p align="center">
-<a href="https://t.me/itcoursechat" target="_blank"><img src="https://w7.pngwing.com/pngs/599/495/png-transparent-computer-icons-telegram-social-media-membership-angle-triangle-logo-thumbnail.png" alt="Follow my Channel" height="41" width="174"></a>
+<a href="https://t.me/itcoursechat" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZBsfskuzlA7GqtWRWTz2X3slQjUPtQ7r1tg&usqp=CAU" height="41" width="174"></a>
 </p>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
