@@ -10,7 +10,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a frontend.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on w3schools
-- 📫 How to reach me: &nbsp; [![https://www.google.com/](anajmiddinov749@gmail.com)](https://www.t.me/itcoursechat)
+- 📫 How to reach me: &nbsp; anajmiddinov749@gmail.com
 
 ---
 
