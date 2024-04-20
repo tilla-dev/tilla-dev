@@ -122,8 +122,6 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Akobir's GitHub stats](https://img.shields.io/github/actions/workflow/status/najmiddinovakobir/https%3A%2F%2Fgithub.com%2Fnajmiddinovakobir/readme.md)
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
 
