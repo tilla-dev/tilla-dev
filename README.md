@@ -14,8 +14,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tilladev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilladev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tilla-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilla-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
 </div>
 
 
@@ -123,7 +123,7 @@
 <div align="center">
  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tilla-dev&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
@@ -133,7 +133,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Akobir's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Najmiddinovakobir&custom_title=Akobir's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Akobir's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tilla-dev&custom_title=Akobir's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
