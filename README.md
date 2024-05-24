@@ -14,8 +14,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najmiddinovakobir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmiddinovakobir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tilladev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilladev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
 </div>
 
 
