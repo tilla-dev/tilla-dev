@@ -55,6 +55,11 @@
 
 <br>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tilla-dev/count.svg" />
+</p>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
