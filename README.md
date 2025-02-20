@@ -138,6 +138,14 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
+# Thank You for visiting my Readme!
+
+![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572 (1)](https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f)
 <br>
 <p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Najmiddinov Akobir</a></p>
